@@ -1,0 +1,26 @@
+#formulario {
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.a {
+    margin-left: 5%;
+}
+
+.editora {
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.pimba {
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.display-4 {
+    text-align: center;
+}
